@@ -14,9 +14,9 @@ The Simon Game is a classic memory game where players must remember and replicat
 
 ## Screenshots
 
-![App Screenshot](https://github.com/divyaaa-13/Simon-Game/assets/173875070/72b3b9f7-5ff0-4b4d-a7ed-45dc34be96b3)
+![Simon Game Screenshot](result/simon1.png)
 
-![simon2](https://github.com/divyaaa-13/Simon-Game/assets/173875070/2b61ee07-ee66-494d-87fd-592be5c5f2be)
+![Simon Game Screenshot](result/simon2.png)
 
 
 ## How to play
